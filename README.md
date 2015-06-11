@@ -19,4 +19,3 @@ rake spec spawns off rspec in a child process with the test profile **(RAILS_ENV
 This means that the Rails environment gets loaded twice is slower than executing rspec by itself.
 
 
-  
